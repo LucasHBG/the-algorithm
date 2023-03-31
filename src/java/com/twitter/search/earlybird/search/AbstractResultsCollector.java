@@ -201,7 +201,7 @@ public abstract class AbstractResultsCollector<R extends SearchRequestInfo,
   }
 
   /**
-   * Subclasses should implement the following methods.
+   * Subclasses should implement the following methods:
    */
 
   // Subclasses should process collected hits and construct a final
